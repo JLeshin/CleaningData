@@ -26,7 +26,7 @@ install.packages('dplyr')
 library(dplyr)
 
 Arr<-arrange(Together,Acts)
-colnames(Arr)<-c("Activities","ID",as.character(Feat$V2)) #Gives Arr the Feature col names
+
 
 #Part 2
 
