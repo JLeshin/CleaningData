@@ -58,4 +58,4 @@ deviation.
 
 
 
-## The complete list of variables of each feature vector is available in the Samsung 'features.txt' file. For further ## background, the user can consult the Samsung README.txt and features_info.txt files. 
+## The complete list of variables of each feature vector is available in the Samsung 'features.txt' file. For further  background, the user can consult the Samsung README.txt and features_info.txt files. 
